@@ -11,7 +11,7 @@ function Body() {
       <div className="body__info">
         {/* <img src="" alt="" />
         <div className="body_infoText"> */}
-        <CardComponent title={"Kesariya"} />
+        {/* <CardComponent title={"Kesariya"} /> */}
       </div>
       {/* // </div> */}
     </div>
